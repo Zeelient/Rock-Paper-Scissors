@@ -3,7 +3,6 @@
 // Purpose:Players plays a game of rock, paper, scissors with computer
 //
 //
-// Name:Christina Kramer
 // Date:3/6/2022
 //
 
